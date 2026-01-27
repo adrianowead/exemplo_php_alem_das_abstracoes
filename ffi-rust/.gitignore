@@ -1,0 +1,5 @@
+target/*
+!target/release/
+target/release/*
+!target/release/ffi_demo.dll
+!target/release/libffi_demo.so

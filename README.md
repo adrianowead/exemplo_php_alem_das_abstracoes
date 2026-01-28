@@ -1,6 +1,9 @@
 # PHP Além das Abstrações
 
-Este repositório faz parte do material de apoio do livro **"PHP Além das Abstrações: Um guia para engenheiros, que precisam do que bibliotecas"**.
+Este repositório faz parte do material de apoio do livro **"PHP Além das Abstrações: Um guia para engenheiros, que precisam do que bibliotecas"**, disponível nas versões impressa e digital:
+
+- **ISBN (Livro Impresso):** 978-65-01-91797-9
+- **ISBN (Livro Digital):** 978-65-01-91733-7
 
 > *"Quando o desempenho vale mais do que um código bonito."*
 

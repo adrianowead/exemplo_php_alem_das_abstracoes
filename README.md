@@ -1,6 +1,6 @@
 # PHP Além das Abstrações
 
-Este repositório faz parte do material de apoio do livro **"PHP Além das Abstrações: Um guia para engenheiros, que precisam do que bibliotecas"**, disponível nas versões impressa e digital:
+Este repositório faz parte do material de apoio do livro **"PHP Além das Abstrações: Um guia para engenheiros, que precisam mais do que bibliotecas"**, disponível nas versões impressa e digital:
 
 - **ISBN (Livro Impresso):** 978-65-01-91797-9
 - **ISBN (Livro Digital):** 978-65-01-91733-7
@@ -118,8 +118,15 @@ Cada capítulo inclui:
 - Benchmarks reais com resultados mensurados
 - Referências bibliográficas para aprofundamento
 
+### Indo Além: Extensões Nativas com Rust
+
+Ao atingir o **Nível 5**, exploramos o limite da performance: as Extensões Nativas. Para um mergulho profundo especificamente nesta técnica, recomendo o material complementar:
+
+**[Extensões PHP de Alto Desempenho - Rust + PHP: Performance Nativa Sem Complexidade de C/C++](https://github.com/adrianowead/exemplo_extensao_php_rust)**
+
 ## Conhecimento
 
 O livro não é essencial para compreender este repositório; entretanto, a leitura é altamente recomendada para se familiarizar com os conceitos de baixo nível, a Zend Engine e os motivos pelos quais certas decisões arquiteturais podem resultar em ganhos de performance relevantes. Especialmente se você é um desenvolvedor PHP que sempre dependeu de abstrações de frameworks e nunca precisou ir além do básico para web.
 
 Este material é para engenheiros que precisam do que as bibliotecas não oferecem: **controle total**.
+

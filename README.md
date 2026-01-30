@@ -24,7 +24,14 @@ Este repositório fornece exemplos funcionais dos códigos comentados no livro, 
 
 ## Adquira o Livro
 
-O livro completo, com a fundamentação teórica e exemplos práticos de cada técnica, **estará disponível para compra em formato digital e físico (em breve)**. A obra é escrita em **Português do Brasil**.
+O livro completo, com a fundamentação teórica e exemplos práticos de cada técnica, **já está disponível para compra em formato digital e físico (capa comum)**. A obra é escrita em **Português do Brasil**.
+
+### Versão Digital
+[![Amazon Brasil](https://img.shields.io/badge/Amazon_Brasil-eBook-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com.br/dp/B0GJ74T5MQ/)
+
+### Versão Física — Capa Comum
+[![Amazon Brasil](https://img.shields.io/badge/Amazon_Brasil-Capa_Comum-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com.br/dp/6501917972)
+[![Clube dos Autores](https://img.shields.io/badge/Clube_dos_Autores-Capa_Comum-1E88E5?style=for-the-badge&logo=bookstack)](https://clubedeautores.com.br/livro/php-alem-das-abstracoes)
 
 ## Estrutura do Repositório
 
@@ -129,4 +136,5 @@ Ao atingir o **Nível 5**, exploramos o limite da performance: as Extensões Nat
 O livro não é essencial para compreender este repositório; entretanto, a leitura é altamente recomendada para se familiarizar com os conceitos de baixo nível, a Zend Engine e os motivos pelos quais certas decisões arquiteturais podem resultar em ganhos de performance relevantes. Especialmente se você é um desenvolvedor PHP que sempre dependeu de abstrações de frameworks e nunca precisou ir além do básico para web.
 
 Este material é para engenheiros que precisam do que as bibliotecas não oferecem: **controle total**.
+
 
